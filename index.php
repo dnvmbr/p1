@@ -9,7 +9,6 @@
     <h1>Dan November</h1>
     <img src="headshot.png" alt-text="Dan Novemebr" class="img-circle">
   </div>
-
   <div>
     <table align="center">
       <tr>
@@ -18,12 +17,12 @@
         <th>p4</th>
       </tr>
       <tr>
-        <td>live</td>
+        <td><a href="http://p2.dannovember.me" target="_blank">live</a></td>
         <td>live</td>
         <td>live</td>
       </tr>
       <tr>
-        <td>github</td>
+        <td><a href="https://github.com/dnvmbr/p2" target="_blank">github</a></td>
         <td>github</td>
         <td>github</td>
       </tr>
