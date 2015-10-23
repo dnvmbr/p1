@@ -18,12 +18,12 @@
       </tr>
       <tr>
         <td><a href="http://p2.dannovember.me" target="_blank">live</a></td>
-        <td>live</td>
+        <td><a href="http://p3.dannovember.me" target="_blank">live</a></td>
         <td>live</td>
       </tr>
       <tr>
         <td><a href="https://github.com/dnvmbr/p2" target="_blank">github</a></td>
-        <td>github</td>
+        <td><a href="https://github.com/dnvmbr/p3" target="_blank">github</a></td>
         <td>github</td>
       </tr>
     </table>
